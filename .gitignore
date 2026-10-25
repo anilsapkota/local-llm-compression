@@ -1,0 +1,13 @@
+# Python environments and cache
+__pycache__/
+*.pyc
+.venv/
+env/
+conda-env/
+
+# Large model files and outputs 
+models/
+output/
+*.safetensors
+*.bin
+*.pt
